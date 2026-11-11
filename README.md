@@ -4,7 +4,7 @@ Aplicación en Streamlit del proyecto de Minería de Datos (tercer corte).
 
 > ⚠️ **Prototipo académico.** No sustituye el diagnóstico ni la decisión de un profesional de la salud.
 
-**App pública:** _(pegar aquí la URL de Streamlit Community Cloud)_
+**App pública:** _([pegar aquí la URL de Streamlit Community Cloud](https://prediccion-enfermedad-cardiaca-jffy9rjmauyidkym5wpekj.streamlit.app/))_
 
 ## Integrantes
 Rafael sierra
